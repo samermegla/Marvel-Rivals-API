@@ -9,8 +9,9 @@ Returns information about an IP address, including the 2 letter country code. By
 * Method: GET, POST, PUT, PATCH, DELETE, OPTIONS
 
 ## Example Request:
+```http
 curl https://who.easebar.com/v2
-
+```
 ## Example Response:
 ```json
 {
