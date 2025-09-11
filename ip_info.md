@@ -1,8 +1,11 @@
 ## Description:
 Returns information about an IP address, including the 2 letter country code. By default, the API returns a predefined IP. 
 
+
 It can be used to:
+
 -Determine client's IP
+
 -Identify the client's country
 ## 
 
