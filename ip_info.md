@@ -12,10 +12,12 @@ Returns information about an IP address, including the 2 letter country code. By
 curl https://who.easebar.com/v2
 
 ## Example Response:
+'''http
 {
     "ip": "76.244.7.34",
     "code": "US"
 }
+'''
 
 ## Status Codes:
 -200 OK
