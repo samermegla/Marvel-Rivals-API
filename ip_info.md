@@ -21,4 +21,5 @@ curl https://who.easebar.com/v2
 
 ## Status Codes:
 -200 OK
+
 -404 Not found
